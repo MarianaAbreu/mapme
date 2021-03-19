@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="534131f9-b13e-4c96-bd06-0c4d8c86321b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/modeling/ae_biosignals.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modeling/ae_biosignals.py" beforeDir="false" afterPath="$PROJECT_DIR$/modeling/ae_biosignals.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,8 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/modeling/ae_biosignals.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="78" column="63" selection-start-line="78" selection-start-column="63" selection-end-line="78" selection-end-column="63" />
+            <state relative-caret-position="403">
+              <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
               <folding>
                 <element signature="e#2#22#0" expanded="true" />
               </folding>
@@ -252,8 +252,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/modeling/ae_biosignals.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="78" column="63" selection-start-line="78" selection-start-column="63" selection-end-line="78" selection-end-column="63" />
+        <state relative-caret-position="403">
+          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
           <folding>
             <element signature="e#2#22#0" expanded="true" />
           </folding>
