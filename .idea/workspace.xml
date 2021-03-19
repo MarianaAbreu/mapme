@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="534131f9-b13e-4c96-bd06-0c4d8c86321b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data_preprocessing/read_bitalino.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modeling/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modeling/autoencoder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/mapme.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mapme.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modeling/ae_biosignals.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,13 +24,34 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modeling/autoencoder.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="51">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Epilepsy_HSM/dash_app/ae_denoising_baseline.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
               <folding>
-                <element signature="e#1#38#0" expanded="true" />
+                <element signature="e#3#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/modeling/ae_biosignals.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="337">
+              <caret line="78" column="63" selection-start-line="78" selection-start-column="63" selection-end-line="78" selection-end-column="63" />
+              <folding>
+                <element signature="e#2#22#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -77,12 +93,14 @@
         <option value="$PROJECT_DIR$/data_preprocessing/read_bitalino.py" />
         <option value="$PROJECT_DIR$/autoencoder/autoencoder.py" />
         <option value="$PROJECT_DIR$/modeling/autoencoder.py" />
+        <option value="$PROJECT_DIR$/../Epilepsy_HSM/dash_app/ae_denoising_baseline.py" />
+        <option value="$PROJECT_DIR$/modeling/ae_biosignals.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2226" />
-    <option name="y" value="-22" />
+    <option name="x" value="2030" />
+    <option name="y" value="-8" />
     <option name="width" value="1219" />
     <option name="height" value="882" />
   </component>
@@ -111,7 +129,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Epilepsy_HSM/dash_app/ae_denoising_baseline.py" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
@@ -217,10 +235,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/modeling/autoencoder.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Epilepsy_HSM/dash_app/ae_denoising_baseline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
           <folding>
-            <element signature="e#1#38#0" expanded="true" />
+            <element signature="e#3#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modeling/ae_biosignals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="78" column="63" selection-start-line="78" selection-start-column="63" selection-end-line="78" selection-end-column="63" />
+          <folding>
+            <element signature="e#2#22#0" expanded="true" />
           </folding>
         </state>
       </provider>
